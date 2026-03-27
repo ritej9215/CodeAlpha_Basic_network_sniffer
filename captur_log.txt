@@ -1,0 +1,203 @@
+Starting Basic Network Sniffer...
+Press CTRL+C to stop
+
+==================================================
+Packet #1
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10218
+Payload: 16030300bb020000b70303729120502c8e449be3d7176e5a7ab1c721df462cba01484bfaa66fb43a3fafe0203a803a11867b
+==================================================
+==================================================
+Packet #2
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10218
+Payload: 3b31ecfa41d41857e17981f3a98582b5668a62d0325016411b64400cac770f5376e4cc136379c9184691b5ce8a320b3331f8
+==================================================
+==================================================
+Packet #3
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10218
+Payload: 46bdf4abaf31465ce12f250d714a85ced44b1eb654505315b1c7d48be73fbf6ee79ec39f1dc0f20c35b49680aa91e27354b9
+==================================================
+==================================================
+Packet #4
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10218
+Payload: ac3105414859fd650b689a4ce1146faf3a8dfac572b055f3f3f14c3352ff11c39f4f646338071ee0455350d75ab2c0ba819b
+==================================================
+==================================================
+Packet #5
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10219
+Payload: 16030300bb020000b70303e93d1e34ee487567477a93f4341b8756746b92135de6af857de939edc35aaa56202424a7a4911f
+==================================================
+==================================================
+Packet #6
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10219
+Payload: e2a123d0008c4e07ef54363bf892df90522e6a4747fa9b4bc4a7d8b6a5ec3c083d1caf1886ed776a396d5d6b89ee3751fb5c
+==================================================
+==================================================
+Packet #7
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10219
+Payload: 6f51575a15abc1734270583bee69cf80b7c40ff1798fccda0f811b948024ad1f2bd2b03f827e7e47ae07cc1d4209b82fe7d8
+==================================================
+==================================================
+Packet #8
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10219
+Payload: 8e0e07fd5985a6f33df790153c5853c02597fe0b0f1f652c53b31e7ae310d430b6dfacbb9b8b5f3e6458c15b4ff14063548f
+==================================================
+==================================================
+Packet #9
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.189.172.73
+Source Port: 10218
+Destination Port: 443
+Payload: None
+==================================================
+==================================================
+Packet #10
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.189.172.73
+Source Port: 10219
+Destination Port: 443
+Payload: None
+==================================================
+==================================================
+Packet #11
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.189.172.73
+Source Port: 10219
+Destination Port: 443
+Payload: 1703030045eef4947c2eb159d0bddedd5d780b34e029c9a4811a430b78a1481bb97d54f1920ebefa71303cbeedd1584b3a93
+==================================================
+==================================================
+Packet #12
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.189.172.73
+Source Port: 10218
+Destination Port: 443
+Payload: 17030300452caa298b2b1dedf76956dac66d087961c2dea7772e77fe21dd922e43023503cdeb17564a549fa60560484aff0c
+==================================================
+==================================================
+Packet #13
+Time: 01:07:29
+Protocol: TCP
+Source IP: 13.89.179.14
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10220
+Payload: None
+==================================================
+==================================================
+Packet #14
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 13.89.179.14
+Source Port: 10220
+Destination Port: 443
+Payload: None
+==================================================
+==================================================
+Packet #15
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 13.89.179.14
+Source Port: 10220
+Destination Port: 443
+Payload: 1603010200010001fc030372ec529e03ee84f83863d47e35e842cc813a12c6659167a229922643bf434fb020fe1b52d919fe
+==================================================
+==================================================
+Packet #16
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.207.73.85
+Source Port: 49363
+Destination Port: 443
+Payload: None
+==================================================
+==================================================
+Packet #17
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.207.73.85
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 49363
+Payload: 1703030013b5d83c3efc2dc7e6fa8097bf6758f3fdff895a
+==================================================
+==================================================
+Packet #18
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.207.73.85
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 49363
+Payload: None
+==================================================
+==================================================
+Packet #19
+Time: 01:07:29
+Protocol: TCP
+Source IP: 192.168.1.6
+Destination IP: 20.207.73.85
+Source Port: 49363
+Destination Port: 443
+Payload: None
+==================================================
+==================================================
+Packet #20
+Time: 01:07:29
+Protocol: TCP
+Source IP: 20.189.172.73
+Destination IP: 192.168.1.6
+Source Port: 443
+Destination Port: 10219
+Payload: 170303006253a5e26d9e9c284db249f606fd72190cc41cc04478059674e582de4070c142268dcb91acb27493b3e1793fb680
+==================================================
